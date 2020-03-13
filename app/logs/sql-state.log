@@ -1,0 +1,10 @@
+13/Mar/2020 12:48:04 > SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.test' doesn't exist
+13/Mar/2020 12:48:05 > SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.test' doesn't exist
+13/Mar/2020 12:48:09 > SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.test' doesn't exist
+13/Mar/2020 13:03:54 > SQLSTATE[HY000] [1049] Unknown database 'inexistent'
+13/Mar/2020 13:19:00 > SQLSTATE[HY000] [1049] Unknown database 'inexistent'
+13/Mar/2020 13:19:56 > SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+13/Mar/2020 13:20:56 > SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.test' doesn't exist
+13/Mar/2020 13:50:55 > SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.test' doesn't exist
+13/Mar/2020 14:01:15 > SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+13/Mar/2020 14:01:50 > SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
